@@ -4,6 +4,7 @@ const body = document.querySelector("body")
 const star = document.querySelector("[data-start]")
 const stop = document.querySelector("[data-stop]");
 let a = null;
+
 stop.disabled = !0,
 star.addEventListener("click", (()=>{
     a = setInterval((()=>{
