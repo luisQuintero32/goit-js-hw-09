@@ -83,11 +83,12 @@ está el enlace a la versión activa de este repositorio.
 [https://goitacademy.github.io/parcel-project-template](https://goitacademy.github.io/parcel-project-template).
 
 Si se abre una página en blanco, asegúrese de que no haya errores en la pestaña
+
 `Console` relacionados con rutas incorrectas a los archivos CSS y JS del proyecto (**404**).
 Lo más probable es que tenga un valor incorrecto para la propiedad `homepage` o el 
 script `build` en el archivo `package.json`.
 
-## ¿Cómo funciona?
+## ¿Cómo funciona?...
 
 ![How it works](./assets/how-it-works.png)
 
