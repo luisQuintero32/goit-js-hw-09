@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/luisquintero32/goit-js-hw-09.git"
   },
   "keywords": [],
   "author": "luis quintero <luispau2390@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/luisquintero32/goit-js-hw-09/issues"
   },
   "dependencies": {
     "flatpickr": "^4.6.13",
